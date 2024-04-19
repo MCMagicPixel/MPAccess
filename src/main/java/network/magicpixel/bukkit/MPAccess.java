@@ -22,7 +22,8 @@ public final class MPAccess extends JavaPlugin
     }
 
     @Override
-    public void reloadConfig() {
+    public void reloadConfig()
+    {
         super.reloadConfig();
         new Locale(getDataFolder()).loadLocale();
     }
