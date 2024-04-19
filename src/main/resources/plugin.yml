@@ -1,0 +1,7 @@
+name: MPAccess
+version: '${version}'
+main: network.magicpixel.bukkit.MPAccess
+api-version: '1.13'
+authors:
+  - PlaidMrdeer
+description: magicpixel私用插件
